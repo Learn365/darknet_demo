@@ -1,0 +1,5 @@
+classes= 1  
+train  = data/nlut_1/nlut_1_train.txt  
+valid  = data/nult_1/nlut_1_test.txt  
+names = cfg/nlut_1/nlut_1.names  
+backup = backup/
