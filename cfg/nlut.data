@@ -1,5 +1,0 @@
-classes= 5  
-train  = nlut_train.txt  
-valid  = nlut_test.txt  
-names = nlut.names  
-backup = backup/
